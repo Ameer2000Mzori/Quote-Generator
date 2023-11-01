@@ -1,5 +1,6 @@
 import "./Navbar.css";
 import "./Style.css";
+import "./Home.css";
 import quoteIcon from "./asset/qoutelogo.png";
 import NavBar from "./Navbar";
 

@@ -1,0 +1,15 @@
+.header-wrap {
+  background-color: rgb(193, 255, 234);
+  height: 900px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  width: 100%;
+}
+
+@media (max-width: 769px) {
+  .header-wrap {
+    font-size: 12px;
+  }
+}
