@@ -35,6 +35,38 @@
   padding: 0 15%;
 }
 
+.sharebtn {
+  font-family: "Playpen Sans", cursive;
+  display: flex;
+  font-weight: 600;
+  flex-direction: column;
+  justify-content: space-evenly;
+  text-align: center;
+  align-items: center;
+  width: 70px;
+  height: 40px;
+  border-radius: 15px;
+  padding: 15px;
+  border-style: solid;
+  border-color: rgb(74, 74, 180);
+}
+
+.nextbtn {
+  font-family: "Playpen Sans", cursive;
+  display: flex;
+  font-weight: 600;
+  border-style: solid;
+  border-color: rgb(74, 74, 180);
+  flex-direction: column;
+  justify-content: space-evenly;
+  text-align: center;
+  align-items: center;
+  width: 120px;
+  height: 40px;
+  border-radius: 15px;
+  padding: 15px;
+}
+
 #buttonshandlers:hover {
   background-color: gray;
 }
