@@ -1,7 +1,6 @@
+import quoteApi from "./api.js";
 async function quoteGenerate() {
-  const res = await fetch(
-    "https://jacintodesign.github.io/quotes-api/data/quotes.json"
-  );
+  const res = await fetch(quoteApi);
   const data = await res.json();
   const randomIndex = Math.floor(Math.random() * data.length); // Get a random index
   const randomQuote = data[randomIndex];
