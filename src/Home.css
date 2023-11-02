@@ -1,5 +1,4 @@
 .header-wrap {
-  background-image: url(asset/backgroundimg.jpg);
   height: 450px;
   display: flex;
   justify-content: space-evenly;
@@ -7,6 +6,7 @@
   text-align: center;
   align-items: center;
   width: 100%;
+  padding: 0 30px;
 }
 
 .header {
@@ -34,7 +34,6 @@
 }
 
 .aboutwrap {
-  background-image: url(asset/backgroundimg.jpg);
   height: 450px;
   display: flex;
   justify-content: space-evenly;
