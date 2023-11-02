@@ -51,7 +51,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://ameer2000mzori.github.io/awesomebooks/)
+- [Live Demo Link](https://ameer2000mzori.github.io/Quote-Generator/dist/Home.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
