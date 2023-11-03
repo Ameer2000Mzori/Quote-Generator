@@ -88,8 +88,6 @@ If you like this project, don't hesitate to give it a star 😊.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse team for the resources.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Support and feedback -->
