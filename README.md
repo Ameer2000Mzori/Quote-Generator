@@ -16,7 +16,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 My Portafolio <a name="about-project"></a>
+# 📖 Quote-Generator <a name="about-project"></a>
 
 > "Quote-Generator is a website created using HTML, CSS, and JavaScript. This website is dedicated to generating quotes on demand, utilizing a Quotes API. I'm actively managing this project on GitHub and using Git for version control. Webpack is employed to streamline the build process, and code linters are in place to catch and rectify code errors. Feel free to explore the live demo provided in the README! 😊"
 
